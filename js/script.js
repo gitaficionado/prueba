@@ -58,7 +58,7 @@ for (let i = 0; i < totalFilterBtn; i++) {
   });
 }
 
-// Portfolio Lighbox
+// Portfolio Lightbox
 
 const lightbox = document.querySelector(".lightbox"),
   lightboxImg = lightbox.querySelector(".lightbox-img"),
