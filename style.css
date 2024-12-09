@@ -15,7 +15,6 @@ html {
   scroll-behavior: smooth;
 }
 
-p,
 .experience-sub-title {
   color: rgb(85, 85, 85);
 }
@@ -410,6 +409,7 @@ footer {
 .hamburger-icon span:last-child {
   transform: none;
 }
+
 /* media queries */
 @media screen and (max-width: 1400px) {
   #profile {
